@@ -2,6 +2,8 @@
 
 ## System Flowchart
 
+<img width="1264" alt="system flowchart" src="https://github.com/muhakbarhamid21/sentiment-analysis-covid-19-twitter/assets/72149133/eab31585-aa01-4d82-82aa-0ee52b78bdeb">
+
 ## Dataset
 
 https://www.kaggle.com/datasets/dionisiusdh/covid19-indonesian-twitter-sentiment
@@ -33,6 +35,21 @@ https://www.kaggle.com/datasets/dionisiusdh/covid19-indonesian-twitter-sentiment
 ## Data Exploration
 
 - Top Features
+  ![total jumlah sentimen](https://github.com/muhakbarhamid21/sentiment-analysis-covid-19-twitter/assets/72149133/6f96a7a3-b8da-4093-8a5b-a5f239097c69)
+  - Positive Class
+    ![top features - positive class](https://github.com/muhakbarhamid21/sentiment-analysis-covid-19-twitter/assets/72149133/49447d71-493a-466f-bc2e-d99326294b4d)
+  - Negative Class
+    ![top features - negative class](https://github.com/muhakbarhamid21/sentiment-analysis-covid-19-twitter/assets/72149133/54136943-5b7b-479d-9900-b03be2a66a14)
+  - Neutral Class
+    ![top features - neutral class](https://github.com/muhakbarhamid21/sentiment-analysis-covid-19-twitter/assets/72149133/cbf9eb7a-cb12-4daf-a11d-4947cebf86a8)
 - Word Cloud
+  - Positive Class
+    ![word cloud - positive class](https://github.com/muhakbarhamid21/sentiment-analysis-covid-19-twitter/assets/72149133/97468b02-8993-449d-ac56-5ad554ab0aa0)
+  - Negative Class
+    ![word cloud - negative class](https://github.com/muhakbarhamid21/sentiment-analysis-covid-19-twitter/assets/72149133/8ea0c7a2-0356-43bc-a51d-3bcd256f7fde)
+  - Neutral Class
+    ![word cloud - neutral class](https://github.com/muhakbarhamid21/sentiment-analysis-covid-19-twitter/assets/72149133/077f85d8-3e87-4b5d-bb89-5417a67a5569)
 
 ## Result
+
+<img width="1328" alt="evaluation" src="https://github.com/muhakbarhamid21/sentiment-analysis-covid-19-twitter/assets/72149133/5541872a-012d-44b2-b452-6188321b7689">
