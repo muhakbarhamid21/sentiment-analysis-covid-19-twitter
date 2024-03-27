@@ -2,7 +2,7 @@
 
 ## System Flowchart
 
-<img width="1264" alt="system flowchart" src="https://github.com/muhakbarhamid21/sentiment-analysis-covid-19-twitter/assets/72149133/eab31585-aa01-4d82-82aa-0ee52b78bdeb">
+![sys_flow](https://github.com/muhakbarhamid21/sentiment-analysis-covid-19-twitter/assets/72149133/4c6521f8-265e-4ce6-9ca1-cedaa03be40c)
 
 ## Dataset
 
