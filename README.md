@@ -31,6 +31,9 @@ https://www.kaggle.com/datasets/dionisiusdh/covid19-indonesian-twitter-sentiment
 - Undersampling
 - Oversampling
 - SMOTE
+- Cost-Sensitive Learning
+- Bagging
+- Tomek Links
 
 ## Data Exploration
 
